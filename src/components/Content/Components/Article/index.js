@@ -6,16 +6,16 @@ const Article = () =>{
   return (
     <StyledArticle>
       <StyledBox >
-        <p>Every paragraph, one box</p>
+        <p>Each paragraph, one box</p>
       </StyledBox>
       <StyledBox >
-        <p>Every paragraph, one box</p>
+        <p>Each paragraph, one box</p>
       </StyledBox>
       <StyledBox >
-        <p>Every paragraph, one box</p>
+        <p>Each paragraph, one box</p>
       </StyledBox>
       <StyledBox >
-        <p>Every paragraph, one box</p>
+        <p>Each paragraph, one box</p>
       </StyledBox>
     </StyledArticle>
   );
