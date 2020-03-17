@@ -6,7 +6,6 @@ import Article from './Components/Article/index';
 const Content = () => {
   return (
     <StyledContent>
-      <Menu />
       <Article />
     </StyledContent>
   );

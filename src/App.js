@@ -10,6 +10,7 @@ function App() {
       <GlobalStyle />
       <Header />
       <Content />
+      <Content />
       <Footer />
     </>
   );

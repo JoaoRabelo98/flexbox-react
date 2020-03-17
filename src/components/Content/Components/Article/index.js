@@ -1,21 +1,24 @@
 import React from 'react';
 
-import { StyledArticle, StyledBox } from './styles';
+import { StyledArticle, StyledBox, StyledParagraph } from './styles';
 
 const Article = () =>{
   return (
     <StyledArticle>
       <StyledBox >
-        <p>Each paragraph, one box</p>
+        <StyledParagraph>Each paragraph, one box</StyledParagraph>
       </StyledBox>
       <StyledBox >
-        <p>Each paragraph, one box</p>
+        <StyledParagraph>Each paragraph, one box</StyledParagraph>
       </StyledBox>
       <StyledBox >
-        <p>Each paragraph, one box</p>
+        <StyledParagraph>Each paragraph, one box</StyledParagraph>
       </StyledBox>
       <StyledBox >
-        <p>Each paragraph, one box</p>
+        <StyledParagraph>Each paragraph, one box</StyledParagraph>
+      </StyledBox>
+      <StyledBox >
+        <StyledParagraph>Each paragraph, one box</StyledParagraph>
       </StyledBox>
     </StyledArticle>
   );

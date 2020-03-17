@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const StyledArticle = styled.article`
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   flex-direction: row;
   flex-grow: 12;
   background-color: lightcoral; 
@@ -22,8 +22,8 @@ export const StyledBox = styled.div`
   justify-content: center;
   text-align: center;
   align-items: center;
-  
-  p{ 
-    margin: 5px;
-  }
+`;
+
+export const StyledParagraph = styled.p`
+  margin: 5px;
 `;
