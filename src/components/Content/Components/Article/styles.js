@@ -20,5 +20,6 @@ export const StyledBox = styled.div`
   border-radius: 20px;
   background-color: lightgreen;
   justify-content: center;
+  text-align: center;
   align-items: center;
 `;
