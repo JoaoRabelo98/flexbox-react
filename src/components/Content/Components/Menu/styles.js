@@ -7,4 +7,8 @@ export const StyledMenu = styled.nav`
   justify-content: center;
   align-items: center;
   text-align: center;
+
+  p{ 
+    margin: 5px;
+  }
 `;

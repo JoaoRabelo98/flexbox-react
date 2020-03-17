@@ -7,4 +7,8 @@ export const StyledFooter = styled.div`
   justify-content: center;
   align-items: center;
   text-align: center;
+
+  p{ 
+    margin: 5px;
+  }
 `;

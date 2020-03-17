@@ -22,4 +22,8 @@ export const StyledBox = styled.div`
   justify-content: center;
   text-align: center;
   align-items: center;
+  
+  p{ 
+    margin: 5px;
+  }
 `;
