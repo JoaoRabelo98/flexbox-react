@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const StyledFooter = styled.div`
   background-color: pink;
-  height: 1000px;
+  height: 10%;
   display: flex;
   justify-content: center;
   align-items: center;

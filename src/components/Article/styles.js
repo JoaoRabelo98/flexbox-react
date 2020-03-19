@@ -6,7 +6,7 @@ export const StyledArticle = styled.article`
   flex-direction: row;
   flex-grow: 12;
   background-color: lightcoral; 
-  height: auto;
+  height: 70%;
   justify-content: center;
   align-items: center;
 `;
