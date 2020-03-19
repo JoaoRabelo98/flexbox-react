@@ -6,6 +6,7 @@ import Footer from '../../components/Footer/index';
 import Article from '../../components/Article/index';
 import SearchArea from '../../components/SearchArea/index';
 import AboutUs from '../../components/AboutUs/index';
+import ContactUs from '../../components/ContactUs/index';
 
 const Main = () => {
   return (
@@ -14,6 +15,7 @@ const Main = () => {
       <SearchArea />
       <Article />
       <AboutUs />
+      <ContactUs />
       <Footer />
     </StyledMain>
   )
