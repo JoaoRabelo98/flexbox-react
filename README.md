@@ -8,7 +8,9 @@ Welcome to my new repo 👋</h1>
 
 ## Get started 
 
-To exec this project, install the programs below:
+Hello, this project is a sample SPA flex. 
+
+To exec, run the steps below
 
 ~~~sh
 (choco / apt-get / brew) install git
